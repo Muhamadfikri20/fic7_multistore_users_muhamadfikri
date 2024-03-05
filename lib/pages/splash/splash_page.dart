@@ -2,7 +2,7 @@ import 'package:fic7_multistore_users_muhamadfikri/utils/color_resources.dart';
 import 'package:flutter/material.dart';
 
 import '../../utils/image.dart';
-import 'widget/splash_painter.dart';
+import 'widgets/splash_painter.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({Key? key}) : super(key: key);
